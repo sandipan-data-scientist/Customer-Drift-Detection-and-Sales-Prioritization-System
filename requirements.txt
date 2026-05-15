@@ -1,0 +1,25 @@
+# core data stack
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# machine learning
+scikit-learn==1.5.0
+joblib==1.4.2
+
+# visualisation
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# API
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.1
+
+# dashboard
+streamlit==1.35.0
+requests==2.32.3
+
+# notebook
+jupyter==1.0.0
+ipykernel==6.29.4

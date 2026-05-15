@@ -1,0 +1,2 @@
+# Customer-Drift-Detection-and-Sales-Prioritization-System
+End-to-end ML pipeline that detects anomalous drops in business account transaction patterns and ranks at-risk customers into Sales prioritization tiers. Features statistical validation (t-test, Chi-Square), Isolation Forest anomaly detection, rolling spend feature engineering, a FastAPI backend, Streamlit dashboard, and Docker deployment.
